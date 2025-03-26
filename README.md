@@ -15,7 +15,9 @@
 #### Installation
 
 - **Install VermApp for Android (🤖)**
+    
 > https://github.com/negerleins/Verm/releases/latest/download/VermApp.apk
+    
 Using [adb](https://developer.android.com/tools/adb) *(Android Debug Bridge)
 1. `Connect your device to a computer` *(recommended)*.
 2. `Allow USB debugging` *(recommended)*.
@@ -46,7 +48,9 @@ Using [adb](https://developer.android.com/tools/adb) *(Android Debug Bridge)
   # Expected result, "Success"
 ``` 
 - **Install VermApp for iOS ()**
+    
 > https://github.com/negerleins/Verm/releases/latest/download/VermApp.ipa
+    
 Using [TrollStore](https://github.com/opa334/TrollStore) *(Fake-signer)
 1. `Download our IPA from the GitHub` *(recommended)*.
 2. `Press, "Open in "TrollStore"`.
